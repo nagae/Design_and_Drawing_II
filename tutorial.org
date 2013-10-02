@@ -1,0 +1,11 @@
+* チュートリアル
+インストールが無事に完了したら，チュートリアルを見ながら SolidWorks の操作に慣れ
+よう．
+
+1. SolidWorks の起動画面から「SolidWorks リソース」を開く
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_resources.png]]
+
+* 
+
+
