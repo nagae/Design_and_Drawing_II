@@ -5,7 +5,16 @@
 1. SolidWorks の起動画面から「SolidWorks リソース」を開く
    #+ATTR_HTML: width=700
    [[file:fig/SW_resources.png]]
+2. 「初めての部品作成」をクリック
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_first_part.png]]
+3. チュートリアルページが開くので，それに従って部品を作成する
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_first_part_first_page.png]]
+4. 部品が完成したら，部品図を作成しよう
 
-* 
+   SolidWorks リソースに戻って「初めての図面作成」をクリック
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_first_drawing.png]]
 
 
