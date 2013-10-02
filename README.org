@@ -1,11 +1,6 @@
 * 担当教員
 長江 剛志(T. Nagae)，永井　大樹(T. Nagai)
 * スケジュール(前半のみ)
-:PROPERTIES:
-:ARCHIVE_TIME: 2013-10-02 Wed 11:25
-:ARCHIVE_FILE: ~/home/_work/_workingpaper/lecture/Design_and_Drawing_II/README.org
-:ARCHIVE_CATEGORY: README
-:END:
 - 10/2 :: 第1回 ガイダンス，Solidworks のインストール方法およびチュートリアルの利用方法
   - 課題1: [[tutorial.org][「初めての部品作成」および「初めての図面作成」]]を読んで部品を作成し，部品図を提出せよ．
 - 10/9 :: 第2回 インストールやチュートリアル利用に関する問題対応
