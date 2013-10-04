@@ -28,11 +28,7 @@
       SolidWorks Premium を選択すると，自動的に SolidWorks Standard も借りられる(*)
    3) 「借りる」をクリックする
 
-<<<<<<< HEAD
 (*) 2013年10月4日現在， =guide2012.pdf= の内容とは異なり，SolidWorks Standard 単体では借りられないようです．
-=======
-(*) 2013年10月4日現在，=guide2012.pdf= の内容とは異なり，SolidWorks Standard 単体では借りられないようです．
->>>>>>> b25734c0b9a9b6f7f1640e31613677252004e241
 #+ATTR_HTML: width=700
 [[file:fig/SW_borrow_license_4.png]]
 #+ATTR_HTML: width=700
