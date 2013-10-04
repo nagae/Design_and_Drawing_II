@@ -1,0 +1,36 @@
+* SolidWorks 2012 Installation Manager によるインストール手順(の補足)
+- 2013年10月4日時点では *eduroam からはライセンス認証ができない* ようです．これは，
+  SolidWorks のライセンス認証プロトコルが利用するポート(25734)が eduroam で認め
+  られていないためと思われます．
+* SolidNetwork License Manager によるライセンス借用手順(の補足)
+=guide2012.pdf= の「ライセンスを借りる」手順を補足する．
+1. ライセンス認証が可能なネットワークに接続する．
+2. SolidWorks を起動し，ライセンス認証が済んでいることを確認する．
+3. SolidWorks を終了させる．
+4. スタートメニューから「すべてのプログラム」→「SolidWorks 2012」→「SolidWorks
+   ツール」→「SolidNetwork License Manager」を起動する．
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_borrow_license_0.png]]
+5. ライセンスタブを選択する
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_borrow_license_1.png]]
+6. ライセンスを借りる．
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_borrow_license_3.png]]
+   1) 借りる期限を決定する．
+   2) 借りるライセンスを選択する．=guide2012.pdf= で推奨されているのは，以下の4
+      つ：
+      - 2D Editor for DWG
+      - SolidWorks Flow Simulation
+      - SolidWorks Premium
+      - SolidWorks Simulation Premium
+
+      SolidWorks Premium を選択すると，自動的に SolidWorks Standard も借りられる[1]
+   3) 「借りる」をクリックする
+
+[1]2013年10月4日現在，=guide2012.pdf= の内容とは異なり，SolidWorks Standard 単体
+では借りられないようだ．
+#+ATTR_HTML: width=700
+[[file:fig/SW_borrow_license_4.png]]
+#+ATTR_HTML: width=700
+[[file:fig/SW_borrow_license_5.png]]
