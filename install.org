@@ -1,7 +1,20 @@
 ** SolidWorks 2012 Installation Manager によるインストール手順(の補足)
-- 2013年10月4日時点では *eduroam からはライセンス認証ができない* ようです．これは，
-  SolidWorks のライセンス認証プロトコルが利用するポート(25734)が eduroam で認め
-  られていないためと思われます．
+1. 2013年10月4日時点では *eduroam からはライセンス認証ができない* ようです．これは，
+   SolidWorks のライセンス認証プロトコルが利用するポート(25734)が eduroam で認め
+   られていないためと思われます．
+2. =guide2012.pdf= では「tains-eng 無線 LAN は OK ですが」と記載されていますが，
+   2013年10月8日時点では *tains-eng は教職員のみが利用できる* 状態のようです．
+3. いくつかの研究室では，セキュリティの観点から，所属する学生のものであっても，私
+   物のノートPCを研究室のネットワークに接続することを認めていないようです．
+
+以上のことから，所属する研究室で私物ノートPCへのネットワーク利用が認められていな
+い場合，個人のPCに SolidWorks をインストールするには「Student Access」を用いる必
+要があるようです．
+
+ただし，Student Access のライセンス数には限りがあるため，まずは研究室のネットワー
+クに接続させてもらえないか相談して下さい．認められない場合は，その旨を長江までメー
+ルして下さい．Student Access 用のシリアル番号をお知らせします．
+  
 ** SolidNetwork License Manager によるライセンス借用手順(の補足)
 =guide2012.pdf= の「ライセンスを借りる」手順を補足する．
 1. ライセンス認証が可能なネットワークに接続する．
@@ -9,16 +22,19 @@
 3. SolidWorks を終了させる．
 4. スタートメニューから「すべてのプログラム」→「SolidWorks 2012」→「SolidWorks
    ツール」→「SolidNetwork License Manager」を起動する．
+
    #+ATTR_HTML: width=700
    [[file:fig/SW_borrow_license_0.png]]
 5. ライセンスタブを選択する
+
    #+ATTR_HTML: width=700
    [[file:fig/SW_borrow_license_1.png]]
 6. ライセンスを借りる．
+
    #+ATTR_HTML: width=700
    [[file:fig/SW_borrow_license_3.png]]
    1) 借りる期限を決定する．
-   2) 借りるライセンスを選択する．=guide2012.pdf= で推奨されているのは，以下の4
+   2) 借りるライセンスを選択する． =guide2012.pdf= で推奨されているのは，以下の4
       つ：
       - 2D Editor for DWG
       - SolidWorks Flow Simulation
@@ -29,7 +45,9 @@
    3) 「借りる」をクリックする
 
 (*) 2013年10月4日現在， =guide2012.pdf= の内容とは異なり，SolidWorks Standard 単体では借りられないようです．
+
 #+ATTR_HTML: width=700
 [[file:fig/SW_borrow_license_4.png]]
+
 #+ATTR_HTML: width=700
 [[file:fig/SW_borrow_license_5.png]]
