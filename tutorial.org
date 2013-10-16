@@ -17,4 +17,19 @@
    #+ATTR_HTML: width=700
    [[file:fig/SW_first_drawing.png]]
 
+** Student Access でインストールした場合
+Student Access でインストールされた SolidWorks 2012 では，上記「初めての〜」が表
+示されない．この場合は，以下の方法で「SolidWorksの概要」が上記「初めの部品作成」および「初めての図面作成」に相当するので，
+以下の方法で開いて課題を進めること．
+1. SolidWorks リソース内のメニューから SolidWorks->チュートリアル 
+   を選び，新しく開いたウィンドウ内の「はじめに」をクリック
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_tutorial.png]]
+2. 「SolidWorks の概要」をクリック
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_Getting_Started.png]]
+3. タスクをこなしたら「次へ」を押すことで「初めての部品作成」から「初めての図面作成」まで進められる
+   #+ATTR_HTML: width=700
+   [[file:fig/SW_Introduction.png]]
+
 
