@@ -29,12 +29,12 @@
        
        コメント記載例:
        以下の6個のファイルを zip 形式で圧縮したものを report2.zip として提出します．
-       a) Kihon-A.sldprt (基本形状A)
-       b) Kihon-B.sldprt (基本形状B)
-       c) Kihon-C.sldprt (基本形状C)
-       d) Kihon-D.sldprt (基本形状D)
-       e) Kihon-E.sldprt (基本形状E)
-       f) Kihon-G.sldprt (基本形状F)
+       1) Kihon-A.sldprt (基本形状A);
+       2) Kihon-B.sldprt (基本形状B);
+       3) Kihon-C.sldprt (基本形状C);
+       4) Kihon-D.sldprt (基本形状D);
+       5) Kihon-E.sldprt (基本形状E);
+       6) Kihon-G.sldprt (基本形状F);
        
     5. *学務情報システムに科目名が表示されない* などのトラブルがあった場合は，その旨を長江までお知らせ下さい．
     
