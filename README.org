@@ -1,4 +1,11 @@
 * 重要連絡 / Important Message
+** スケジュールの変更
+- スケジュールに関して *大変な勘違い* をしておりました．申し訳ありません．
+  本来，長江が担当する前半は 11/26(水) までで，それ以降は 永井先生が担当する後半となります．
+  これに関して，下記の通りスケジュールを変更します．
+  - 課題2, 課題3の提出期限は *変更しません*. 具体的には，課題2は 11/26, 課題3は12/10 を提出期限とします．
+  - 永井先生担当分の後半は *12/3* からとします．必ず出席して下さい．
+
 ** 課題1の講評 / Comments on Report 1
 TAの先崎さん・服部さんが [[file:report1-comment.pdf][課題1の講評]] を作成してくれました．
 本講義の後半では「図面の完成度(=見やすさ・正確さ・明快さ)」も評価されます．
@@ -10,7 +17,7 @@ I would be helpful for improving your drawing skill, especially for the reports 
 
 * 担当教員
 長江 剛志(T. Nagae)，永井　大樹(T. Nagai)
-* スケジュール(前半のみ)
+* スケジュール(前半)
 - 10/1 :: 第1回 ガイダンス，Solidworks のインストール方法およびチュートリアルの利用方法
           以下の点に注意すること：
   - 研究室等で利用されるPCは「ネットワークライセンス」を利用する．
@@ -70,32 +77,39 @@ I would be helpful for improving your drawing skill, especially for the reports 
     | 基本形状I   |   56589.05 |     20733.85 |              |
     | 基本形状J   |  109348.67 |     26215.22 |              |
     |-------------+------------+--------------+--------------|
-    
-
   - 10/22 :: 第4回 各自演習
              Work by yourself.
   - 10/29 :: 第5回 自習
              Work by yourself.
-  - 11/19 :: 第6回 基本形状の課題提出
+  - 11/5 :: 第6回 自習
+  - 11/12 :: 第7回 自習
+  - 11/19 :: +第6回+ 第8回 基本形状の課題提出
              Submit Report 2.
-  - 11/26 :: 第7回 Geneva 機構の解説および課題発表
+  - 11/26 :: +第7回+ 第9回 Geneva 機構の解説および課題発表
              Open the Report 3.
     - *課題3*: [[file:Exercise3.pdf][課題3ファイル]] を読んで組立ファイルを作成し，学務情報システム より提出せよ．この課題ファイルを開くためには，課題2と同じパスワードが必要(提出期限:12月10日)
 
       *Report 3*: Build the Geneva Drive in [[file:Exercise3.pdf][Report 3 file]] and submit its *assembly file* via e-mail (nagae@m.tohoku.ac.jp). Deadline is *12/10*.
       - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か *アセンブリ・ファイルと部品ファイルを圧縮したもの* とする．
         
-        Report should submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
+        Report should be submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
       - 課題2の提出などに問題がなければ出席は不要．
         Attendance is not mandatory if you do not have any question.
-  - 12/3 :: 第7回 各自演習
-            Work by yourself.
-  - 12/10 :: 第8回 課題3提出
-             Submit Report 3.
+
+  -------------------- これより後半 --------------------
+           The second half begins.
+
+  - 12/3 :: 第10回 (後半) 課題説明，製図基本復習，設計基本復習
+            Open the exercises and revisits the basic design and drawings.
+            
+  - 12/10 :: 第11回 (後半) 課題Aの提出，課題Bの検図 + 前半の課題3の提出
+             Submit Exercise A, drawing check and submit Report 3 (of the first half).
+             
     - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か 
       *アセンブリ・ファイルと部品ファイルを圧縮したもの* とする．
-      Report should submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
-* 評価 / Evaluation
+
+      Report 3 (of the first half) should be submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
+* 前半の評価 / Evaluation
 If you are an IMAC-U student and have question about evaluation, feel free to contact Nagae (nagae@m.tohoku.ac.jp).
     - 長江担当分の成績(100点満点)は，課題1〜3 の点数を用いて以下のように成績を評価
       する：
