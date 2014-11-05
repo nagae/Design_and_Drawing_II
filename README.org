@@ -84,10 +84,12 @@ I would be helpful for improving your drawing skill, especially for the reports 
   - 11/5 :: 第6回 自習
   - 11/12 :: 第7回 自習
   - 11/19 :: +第6回+ 第8回 基本形状の課題提出
+             
              Submit Report 2.
   - 11/26 :: +第7回+ 第9回 Geneva 機構の解説および課題発表
+
              Open the Report 3.
-    - *課題3*: [[file:Exercise3.pdf][課題3ファイル]] を読んで組立ファイルを作成し，学務情報システム より提出せよ．この課題ファイルを開くためには，課題2と同じパスワードが必要(提出期限:12月10日)
+    - *課題3*: [[file:Exercise3.pdf][課題3ファイル]] を読んで組立ファイルを作成し，学務情報システム より提出せよ．この課題ファイルを開くためには，課題2と同じパスワードが必要 (提出期限: *12月10日*)
 
       *Report 3*: Build the Geneva Drive in [[file:Exercise3.pdf][Report 3 file]] and submit its *assembly file* via e-mail (nagae@m.tohoku.ac.jp). Deadline is *12/10*.
       - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か *アセンブリ・ファイルと部品ファイルを圧縮したもの* とする．
