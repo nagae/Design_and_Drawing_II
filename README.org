@@ -97,12 +97,15 @@ I would be helpful for improving your drawing skill, especially for the reports 
         Attendance is not mandatory if you do not have any question.
 
   -------------------- これより後半 --------------------
-           The second half begins.
+       
+  The second half begins.
 
   - 12/3 :: 第10回 (後半) 課題説明，製図基本復習，設計基本復習
+            
             Open the exercises and revisits the basic design and drawings.
             
   - 12/10 :: 第11回 (後半) 課題Aの提出，課題Bの検図 + 前半の課題3の提出
+             
              Submit Exercise A, drawing check and submit Report 3 (of the first half).
              
     - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か 
