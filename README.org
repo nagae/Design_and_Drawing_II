@@ -1,4 +1,8 @@
 * 重要連絡 / Important Message
+** 課題2 で提出するファイル形式に注意
+- 課題2 で作成した部品ファイルはそのままでは学務情報システムに投稿できないことが判りました．
+  *zip 形式* でアーカイブ＆圧縮すると提出できるようです．
+  情報提供して下さった学生さん，ありがとうございました．
 ** スケジュールの変更
 - スケジュールに関して *大変な勘違い* をしておりました．申し訳ありません．
   本来，長江が担当する前半は 11/26(水) までで，それ以降は 永井先生が担当する後半となります．
@@ -43,15 +47,14 @@ I would be helpful for improving your drawing skill, especially for the reports 
   - *課題提出は 学務情報システム (https://www.srp.tohoku.ac.jp/sa/top.do) から行うこと* 
     
     The following is an instruction for Japanese students only. If you are IMAC-U student, submit the part files via e-mail; Multiple files should be archived (and perhaps compressed) into a single file and an additional letter including i) the complete list of filenames; ii) the archiving/compressing method (e.g. tar and gzip, zip by Windows explorer and so on).
-    ho
     1. 学務情報システムにアクセスする
        学外から学務情報システムにアクセスするには，事前に [[https://www.srp.tohoku.ac.jp][SRP(Secure Reverse Proxy)]] の登録
        が必要
-    2. 科目名「計画及び製図II」を選択
-    3. 課題名を選択すると，レポートファイルが投稿できる
-    4. 課題2-2 については最大で5つまでしかファイルが選べないので，6個以上投稿し
-       たい場合は tar や zip でアーカイブ(&圧縮)して投稿すること．
-       その際， *アーカイブ/圧縮ファイルの内訳* と *アーカイブ/圧縮形式* をコメント欄に明記すること．
+    2. 科目名「計画及び製図II」を選択．
+    3. 課題名を選択すると，レポートファイルが投稿できる．
+    4. 学務情報システムが受け付けるファイル形式が限られているので，
+       課題2-1, 課題2-2 ともに *zip 形式* でアーカイブ(＆圧縮)して投稿すること．
+       その際，下記を参考に *アーカイブ/圧縮ファイルの内訳* と *アーカイブ/圧縮形式* をコメント欄に明記すること．
        
        コメント記載例:「以下の6個のファイルを zip 形式で圧縮したものを report2.zip として提出します．」
        1. Kihon-A.sldprt (基本形状A)
