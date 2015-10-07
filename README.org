@@ -8,7 +8,7 @@ the zip file =solidworks**_****.zip= directly using Explorer embedded function
 (e.g. double click the zip file, "Extract all" from the right click menu, and so on).
 Use [[http://www.7-zip.org][7-zip]] to extract zip file.
 
-** SolidWorks 2015 のネットワークライセンス認証
+** SolidWorks 2015 のネットワークライセンス認証 / Network License can not be activated via eduroam.
 Windows 10 を使っている方でSolidWorks 2015をネットワークライセンスでインストールする場合，
 *eduroam ではライセンス認証ができません* (認証用SNLサーバに接続するためのポート25734が使えないため)．
 学内で 25734 番ポートが利用可能なネットワーク(例えば，所属研究室のネットワーク)に接続させてもらう必要があります．
