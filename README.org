@@ -9,15 +9,28 @@ Mr. Senzaki and Mr. Hattori, the 2014 TAs,  gave some comments on Report 1.
 I would be helpful for improving your drawing skill, especially for the reports of the second-hard of this lecture, where the 'completeness' of the drawing sheet is also evaluated.
 
 * 担当教員
-長江 剛志(T. Nagae)，永井　大樹(T. Nagai)
+長江 剛志(Nagae, Takeshi), 永井　大樹(Nagai, Hiroki)
+E-mail: nagae＠m.tohoku.ac.ｊｐ 「＠」と「ｊｐ」を半角に置き換えること
+
+* TA
+服部悟 (Hattori, Satoru), 小田　泰之(Oda, Yasuyuki)
+E-mail: hattori.satoru＠aero.mech.tohoku.ac.ｊｐ, oda.yasuyuki＠aero.mech.tohoku.ac.ｊｐ 「＠」と「ｊｐ」を半角に置き換えること
+
+  
+* 製図用ソフトウェア SolidWorks のダウンロードサイト
+http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
+アクセスのためのユーザー名とパスワードは講義中に案内する．
+
 * スケジュール(前半)
 - 10/7 :: 第1回 ガイダンス，Solidworks のインストール方法およびチュートリアルの利用方法
           以下の点に注意すること：
   - 研究室等で利用されるPCは「ネットワークライセンス」を利用する．
-    If you use the PCs in the lab, use the "Network License".
+    If you use the PCs in the lab, use the "Network License."
   - 「計画および製図II」の受講者が個人のPCにインストールする場合は「スチューデントアクセス」を利用する
     （受講者が研究室のPCにインストールする場合は，ネットワークライセンスを利用する）
-    If you use your own PC, use the "Student Access."
+    スチューデントアクセスのシリアル番号を記載した PDF ファイル(=student_access20**.pdf=)の閲覧パスワードは講義中に案内する．
+    If you use your own PC, use the "Student Access." The serial ID is described in =student_access20**.pdf=, whose password 
+    would be announced in the lecture.
   - 課題1: [[tutorial.org][「初めての部品作成」および「初めての図面作成」]]を読んで部品を作成し，部品図を提出せよ
     (提出期限：10/21. 提出方法：印刷して教室に持参)．
     *Report 1*: Build the part and submit the printed part drawing, according to 
@@ -44,8 +57,8 @@ I would be helpful for improving your drawing skill, especially for the reports 
 
   - 課題は下記に従い *メール* で提出すること．ルールを守らない場合は *減点* する．
     Submit the part files by e-mail according to the following rules. Violations would deduct the mark.
-    1. 宛先は長江と2名のTAとせよ．メールアドレスは講義中に指示する．
-       The e-mail should be sent to Dr. Nagae and two TAs (E-mail address would be indicated in the lecture).
+    1. 宛先は長江と2名のTAとせよ．
+       The e-mail should be sent to Dr. Nagae and two TAs.
     2. 件名は *「H27製図II 課題2 B3TB9999 青葉一郎」* とせよ(B3TB9999と青葉一郎を自分の学籍番号に置き換えること)
        The subject should be "2015 Design and Drawing, B3TB****, Your Name" (replace * to your student ID).
     3. 課題2-1, 課題2-2 ともに *zip形式* でアーカイブ＆圧縮し，
