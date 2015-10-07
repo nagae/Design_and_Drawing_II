@@ -9,12 +9,14 @@ Mr. Senzaki and Mr. Hattori, the 2014 TAs, gave some comments on Report 1.
 I would be helpful for improving your drawing skill, especially for the reports of the second-hard of this lecture, where the 'completeness' of the drawing sheet is also evaluated.
 
 * 担当教員
-- 長江 剛志(Nagae, Takeshi) nagae＠m.tohoku.ac.ｊｐ 「＠」と「ｊｐ」を半角に置き換えること
+- 長江 剛志(Nagae, Takeshi) nagae＠m.tohoku.ac.ｊｐ 
 - 永井　大樹(Nagai, Hiroki)
+「＠」と「ｊｐ」を半角に置き換えること
 
 * TA
 - 服部悟 (Hattori, Satoru) hattori.satoru＠aero.mech.tohoku.ac.ｊｐ
-- 小田　泰之(Oda, Yasuyuki) oda.yasuyuki＠aero.mech.tohoku.ac.ｊｐ 「＠」と「ｊｐ」を半角に置き換えること
+- 小田　泰之(Oda, Yasuyuki) oda.yasuyuki＠aero.mech.tohoku.ac.ｊｐ
+ 「＠」と「ｊｐ」を半角に置き換えること
 
   
 * 製図用ソフトウェア SolidWorks のダウンロードサイト
