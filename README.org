@@ -1,10 +1,10 @@
 * 重要連絡 / Important Message
 ** zipファイルの解凍方法 / How to extract zip files
-=solidworks**_****.zip= をエクスプローラの標準機能(e.g. ダブルクリックや右クリックメニューで「全て展開」)で
-解凍するとインストーラが途中で止まる現象が報告されています. [[http://www.7-zip.org][7-zip]] を利用して下さい．
+=solidworks**_****.zip= を *エクスプローラの標準機能* (e.g. ダブルクリックや右クリックメニューで「全て展開」)で
+解凍すると *インストーラが途中で止まる* 現象が報告されています. [[http://www.7-zip.org][7-zip]] を利用して下さい．
 
-It is reported that SolidWorks Installer might stop if you extract
-the zip file =solidworks**_****.zip= directly using Explorer embedded function 
+It is reported that *SolidWorks installation may fail* if you extract
+the zip file =solidworks**_****.zip= directly using *Explorer embedded function*
 (e.g. double click the zip file, "Extract all" from the right click menu, and so on).
 Use [[http://www.7-zip.org][7-zip]] to extract zip file.
 
@@ -13,7 +13,7 @@ Windows 10 を使っている方でSolidWorks 2015をネットワークライセ
 *eduroam ではライセンス認証ができません* (認証用SNLサーバに接続するためのポート25734が使えないため)．
 学内で 25734 番ポートが利用可能なネットワーク(例えば，所属研究室のネットワーク)に接続させてもらう必要があります．
 
-The Network License can not be activated via eduroam network as 
+*The Network License can not be activated via eduroam* as 
 port #25734 to access the license server is not allowed in eduroam.
 If you are Windows 10 user and would like to install SolidWorks 2015, 
 please ask the administrator of your laboratory to connect your PC to the labo network, 
