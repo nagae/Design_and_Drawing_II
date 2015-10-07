@@ -1,71 +1,67 @@
 * 重要連絡 / Important Message
-** 課題2 で提出するファイル形式に注意
-- 課題2 で作成した部品ファイルはそのままでは学務情報システムに投稿できないことが判りました．
-  *zip 形式* でアーカイブ＆圧縮すると提出できるようです．
-  情報提供して下さった学生さん，ありがとうございました．
-** スケジュールの変更
-- スケジュールに関して *大変な勘違い* をしておりました．申し訳ありません．
-  本来，長江が担当する前半は 11/26(水) までで，それ以降は 永井先生が担当する後半となります．
-  これに関して，下記の通りスケジュールを変更します．
-  - 課題2, 課題3の提出期限は *変更しません*. 具体的には，課題2は 11/26, 課題3は12/10 を提出期限とします．
-  - 永井先生担当分の後半は *12/3* からとします．必ず出席して下さい．
-
 ** 課題1の講評 / Comments on Report 1
-TAの先崎さん・服部さんが [[file:report1-comment.pdf][課題1の講評]] を作成してくれました．
+2014年度TAの先崎さん・服部さんが [[file:report1-comment.pdf][課題1の講評]] を作成してくれました．
 本講義の後半では「図面の完成度(=見やすさ・正確さ・明快さ)」も評価されます．
 
 *必ず* 目を通して下さい．
 
-Mr. Senzaki and Mr. Hattori gave some comments on Report 1.
+Mr. Senzaki and Mr. Hattori, the 2014 TAs,  gave some comments on Report 1.
 I would be helpful for improving your drawing skill, especially for the reports of the second-hard of this lecture, where the 'completeness' of the drawing sheet is also evaluated.
 
 * 担当教員
 長江 剛志(T. Nagae)，永井　大樹(T. Nagai)
 * スケジュール(前半)
-- 10/1 :: 第1回 ガイダンス，Solidworks のインストール方法およびチュートリアルの利用方法
+- 10/7 :: 第1回 ガイダンス，Solidworks のインストール方法およびチュートリアルの利用方法
           以下の点に注意すること：
   - 研究室等で利用されるPCは「ネットワークライセンス」を利用する．
   - 「計画および製図II」の受講者が個人のPCにインストールする場合は「スチューデントアクセス」を利用する
     （受講者が研究室のPCにインストールする場合は，ネットワークライセンスを利用する）
   - 課題1: [[tutorial.org][「初めての部品作成」および「初めての図面作成」]]を読んで部品を作成し，部品図を提出せよ
     (提出期限：10/15. 提出方法：印刷して教室に持参)．
-- 10/8 :: 第2回 インストールやチュートリアル利用に関する問題対応
-  - 対応を希望する学生は 10/7 中に長江までその旨をメールで知らせること
-  - 特に対応を希望しない学生は，各自の環境で課題1に取り組むこと
-- 10/15 :: 第3回 チュートリアルの図面提出，レイアウトスケッチの利用方法の解説，基本形状の課題発表
+- 10/14 :: 休講
+  - Solidworks がインストールできないなどの対応を希望する学生は TAの二人にその旨をメールで知らせること
+  - 特に対応を希望しない学生は，各自の環境で課題1に取り組むこと           
+- 10/21 :: 第2回 チュートリアルの図面提出，レイアウトスケッチの利用方法の解説，基本形状の課題発表
            III. Submit Report 1 and open the Report 2.
   - 課題1提出：(「初めての図面作成」)の図面を *印刷して持参* すること．
     Submit Report 1.
     - [[file:report1-comment.pdf][課題1の講評]] も参照すること．
       Refer the comments on Report 1.
     
-  - *課題2*: [[file:2014-Exercise2.pdf][課題2ファイル]] に基づいて基本形状の部品を作成し，その部品ファイルを提出せよ(提出期限: 11/19，提出方法: [[https://www.srp.tohoku.ac.jp/sa/top.do][学務情報システム]])．
+  - *課題2*: [[file:2014-Exercise2.pdf][課題2ファイル]] に基づいて基本形状の部品を作成し，その部品ファイルを提出せよ(提出期限: 11月4日，提出方法: メール．下記参照．)．
     なお，このファイルを開くためには，SolidWorks2014のインストールガイド(guide2014.pdf)を開くのと同じパスワードが必要．
     
-    *Report 2*: Build the basic shapes (基本形状) in [[file:2014-Exercise2.pdf][Report 2 file]] and submit their part files via e-mail (nagae@m.tohoku.ac.jp). Deadline is *11/19*.
+    *Report 2*: Build the basic shapes (基本形状) in [[file:2014-Exercise2.pdf][Report 2 file]] and submit their part files via e-mail (nagae@m.tohoku.ac.jp). Deadline is *11/4*.
     The password for the Report 2 file is equivalent to that for opening the Installation Guide (guide2014.pdf).
-  - *課題提出は 学務情報システム (https://www.srp.tohoku.ac.jp/sa/top.do) から行うこと* 
-    
-    The following is an instruction for Japanese students only. If you are IMAC-U student, submit the part files via e-mail; Multiple files should be archived (and perhaps compressed) into a single file and an additional letter including i) the complete list of filenames; ii) the archiving/compressing method (e.g. tar and gzip, zip by Windows explorer and so on).
-    1. 学務情報システムにアクセスする
-       学外から学務情報システムにアクセスするには，事前に [[https://www.srp.tohoku.ac.jp][SRP(Secure Reverse Proxy)]] の登録
-       が必要
-    2. 科目名「計画及び製図II」を選択．
-    3. 課題名を選択すると，レポートファイルが投稿できる．
-    4. 学務情報システムが受け付けるファイル形式が限られているので，
-       課題2-1, 課題2-2 ともに *zip 形式* でアーカイブ(＆圧縮)して投稿すること．
-       その際，下記を参考に *アーカイブ/圧縮ファイルの内訳* と *アーカイブ/圧縮形式* をコメント欄に明記すること．
-       
-       コメント記載例:「以下の6個のファイルを zip 形式で圧縮したものを report2.zip として提出します．」
+
+  - 課題は下記に従い *メール* で提出すること．ルールを守らない場合は *減点* する．
+    Submit the part files by e-mail according to the following rules. Violations would deduct the mark.
+    1. 宛先は長江と2名のTAとせよ．メールアドレスは講義中に指示する．
+       The e-mail should be sent to Dr. Nagae and two TAs (E-mail address would be indicated in the lecture).
+    2. 件名は *「H27製図II 課題2 B3TB9999 青葉一郎」* とせよ(B3TB9999と青葉一郎を自分の学籍番号に置き換えること)
+       The subject should be "2015 Design and Drawing, B3TB****, Your Name" (replace * to your student ID).
+    3. 課題2-1, 課題2-2 ともに *zip形式* でアーカイブ＆圧縮し，
+       ファイル名を *「H27製図II-課題2-B3B9999.zip」* とせよ(IIはアルファベット大文字Iを2つ．区切り記号は半角ハイフン．)
+       Every files should be archived and compressed as a single zip file.
+       The file name should be "2015Design_and_Drawing-Rep2-B3TB****.zip"
+    4. 本文は標準的なビジネスレターの形式(宛先，自分の学籍番号・氏名，用件)とする．下記を参考に添付ファイルの内容を記載せよ．
+       The e-mail body should be formed as a standard business letter.
+       You have to describe the list of contents of the zip file in the body of e-mail.
+       「長江先生，服部さん，小田さん：
+       B3TB9999 青葉一郎 です．
+       製図IIの課題2として，
+       以下の6個のファイルを zip 形式で圧縮した report2.zip を提出します．よろしくお願いいたします．」
        1. Kihon-A.sldprt (基本形状A)
        2. Kihon-B.sldprt (基本形状B)
        3. Kihon-C.sldprt (基本形状C)
        4. Kihon-D.sldprt (基本形状D)
        5. Kihon-E.sldprt (基本形状E)
        6. Kihon-G.sldprt (基本形状F)
-    5. *学務情報システムに科目名が表示されない* などのトラブルがあった場合は，その旨を長江までお知らせ下さい．
+    5. メールでの提出が不可能な場合は，ファイルの入った USB メモリを提出期限の13時に講義室へ持参せよ．
+       If you can not submit the file by E-mail, put the file into your own USB memory and bring it to the lecture room at 1PM of the due date.
+       
   - 長江が作成した課題2の基本形状ごとの体積と表面積は以下の通り：
-       Use the following volume and surface area of each basic shape as a checksum.
+    Use the following volume and surface area of each basic shape as a checksum.
     |-------------+------------+--------------+--------------|
     | 形状(Shape) | 体積(Volume, mm^3) | 表面積(Surface area, mm^2) | 備考(Remark) |
     |-------------+------------+--------------+--------------|
@@ -80,43 +76,28 @@ I would be helpful for improving your drawing skill, especially for the reports 
     | 基本形状I   |   56589.05 |     20733.85 |              |
     | 基本形状J   |  109348.67 |     26215.22 |              |
     |-------------+------------+--------------+--------------|
-  - 10/22 :: 第4回 各自演習
+  - 10/28 :: 第3回 各自演習
              Work by yourself.
-  - 10/29 :: 第5回 自習
-             Work by yourself.
-  - 11/5 :: 第6回 自習
-  - 11/12 :: 第7回 自習
-  - 11/19 :: +第6回+ 第8回 基本形状の課題提出
-             
+  - 11/4 :: 第4回 基本形状の課題提出
              Submit Report 2.
-  - 11/26 :: +第7回+ 第9回 Geneva 機構の解説および課題発表
-
-             Open the Report 3.
-    - *課題3*: [[file:Exercise3.pdf][課題3ファイル]] を読んで組立ファイルを作成し，学務情報システム より提出せよ．この課題ファイルを開くためには，課題2と同じパスワードが必要 (提出期限: *12月10日*)
-
-      *Report 3*: Build the Geneva Drive in [[file:Exercise3.pdf][Report 3 file]] and submit its *assembly file* via e-mail (nagae@m.tohoku.ac.jp). Deadline is *12/10*.
-      - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か *アセンブリ・ファイルと部品ファイルを圧縮したもの* とする．
-        
-        Report should be submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
       - 課題2の提出などに問題がなければ出席は不要．
         Attendance is not mandatory if you do not have any question.
+  - 11/11 :: 第5回 Geneva 機構の解説および課題発表
+             Open the Report 3.
+    - *課題3*: [[file:Exercise3.pdf][課題3ファイル]] を読んで組立ファイルを作成し，学務情報システム より提出せよ．この課題ファイルを開くためには，課題2と同じパスワードが必要 (提出期限: *11月25日*)
 
-  -------------------- これより後半 --------------------
-       
-  The second half begins.
+      *Report 3*: Build the Geneva Drive in [[file:Exercise3.pdf][Report 3 file]] and submit its *assembly file* via e-mail (nagae@m.tohoku.ac.jp). Deadline is *11/25*.
+      - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か *アセンブリ・ファイルと部品ファイルを圧縮したもの* とする．
+        Report should be submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
+  - 11/18 :: 第6回 各自演習
+             Work by yourself.
+  - 11/25 :: 第7回 課題3の提出．
+             Submit Report 3.
+             Report 3 should be submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
 
-  - 12/3 :: 第10回 (後半) 課題説明，製図基本復習，設計基本復習
-            
-            Open the exercises and revisits the basic design and drawings.
-            
-  - 12/10 :: 第11回 (後半) 課題Aの提出，課題Bの検図 + 前半の課題3の提出
-             
-             Submit Exercise A, drawing check and submit Report 3 (of the first half).
-             
-    - 提出ファイルは *アセンブリ・ファイル内に構成部品を保存したもの* か 
-      *アセンブリ・ファイルと部品ファイルを圧縮したもの* とする．
 
-      Report 3 (of the first half) should be submitted as either an assembly file that includes its whole components, or an archive file that includes an assembly file and its all part files.
+
+
 * 前半の評価 / Evaluation
 If you are an IMAC-U student and have question about evaluation, feel free to contact Nagae (nagae@m.tohoku.ac.jp).
     - 長江担当分の成績(100点満点)は，課題1〜3 の点数を用いて以下のように成績を評価
