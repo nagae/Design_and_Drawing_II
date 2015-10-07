@@ -1,4 +1,24 @@
 * 重要連絡 / Important Message
+** zipファイルの解凍方法 / How to extract zip files
+=solidworks**_****.zip= をエクスプローラの標準機能(e.g. ダブルクリックや右クリックメニューで「全て展開」)で
+解凍するとインストーラが途中で止まる現象が報告されています. [[http://www.7-zip.org][7-zip]] を利用して下さい．
+
+It is reported that SolidWorks Installer might stop if you extract
+the zip file =solidworks**_****.zip= directly using Explorer embedded function 
+(e.g. double click the zip file, "Extract all" from the right click menu, and so on).
+Use [[http://www.7-zip.org][7-zip]] to extract zip file.
+
+** SolidWorks 2015 のネットワークライセンス認証
+Windows 10 を使っている方でSolidWorks 2015をネットワークライセンスでインストールする場合，
+*eduroam ではライセンス認証ができません* (認証用SNLサーバに接続するためのポート25734が使えないため)．
+学内で 25734 番ポートが利用可能なネットワーク(例えば，所属研究室のネットワーク)に接続させてもらう必要があります．
+
+The Network License can not be activated via eduroam network as 
+port #25734 to access the license server is not allowed in eduroam.
+If you are Windows 10 user and would like to install SolidWorks 2015, 
+please ask the administrator of your laboratory to connect your PC to the labo network, 
+in which the port 25734 might be available.
+
 ** 課題1の講評 / Comments on Report 1
 2014年度TAの先崎さん・服部さんが [[file:report1-comment.pdf][課題1の講評]] を作成してくれました．
 本講義の後半では「図面の完成度(=見やすさ・正確さ・明快さ)」も評価されます．
