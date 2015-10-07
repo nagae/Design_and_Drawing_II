@@ -14,24 +14,32 @@ I would be helpful for improving your drawing skill, especially for the reports 
 - 10/7 :: 第1回 ガイダンス，Solidworks のインストール方法およびチュートリアルの利用方法
           以下の点に注意すること：
   - 研究室等で利用されるPCは「ネットワークライセンス」を利用する．
+    If you use the PCs in the lab, use the "Network License".
   - 「計画および製図II」の受講者が個人のPCにインストールする場合は「スチューデントアクセス」を利用する
     （受講者が研究室のPCにインストールする場合は，ネットワークライセンスを利用する）
+    If you use your own PC, use the "Student Access."
   - 課題1: [[tutorial.org][「初めての部品作成」および「初めての図面作成」]]を読んで部品を作成し，部品図を提出せよ
-    (提出期限：10/15. 提出方法：印刷して教室に持参)．
+    (提出期限：10/21. 提出方法：印刷して教室に持参)．
+    *Report 1*: Build the part and submit the printed part drawing, according to 
+    "Making My First Part" and "Making My First Drawing," which could be found in the SolidWorks Resource tab.
+    http://help.solidworks.com/2014/English/SolidWorks/sldworks/r_solidworks_resources.htm
+  - 部品図作成に当たっては [[file:report1-comment.pdf][課題1の講評]] を必ず読むこと．
+    Refer the comments on Report 1.
 - 10/14 :: 休講
-  - Solidworks がインストールできないなどの対応を希望する学生は TAの二人にその旨をメールで知らせること
-  - 特に対応を希望しない学生は，各自の環境で課題1に取り組むこと           
+           Cancellation.
+  - SolidWorks がインストールできないなどの対応を希望する学生は，長江およびTAの二人にその旨をメールで知らせること
+    If you found any problem in installation of SolidWorks, feel free to ask Dr. Nagae and two TAs by E-mail.
+  - 特に対応を希望しない学生は，各自の環境で課題1に取り組むこと
+    Otherwise, work by yourself.
 - 10/21 :: 第2回 チュートリアルの図面提出，レイアウトスケッチの利用方法の解説，基本形状の課題発表
            III. Submit Report 1 and open the Report 2.
   - 課題1提出：(「初めての図面作成」)の図面を *印刷して持参* すること．
-    Submit Report 1.
-    - [[file:report1-comment.pdf][課題1の講評]] も参照すること．
-      Refer the comments on Report 1.
+    Submit Report 1 (the printed part drawing).
     
-  - *課題2*: [[file:2014-Exercise2.pdf][課題2ファイル]] に基づいて基本形状の部品を作成し，その部品ファイルを提出せよ(提出期限: 11月4日，提出方法: メール．下記参照．)．
+  - *課題2*: [[file:2014-Exercise2.pdf][課題2ファイル]] に基づいて基本形状の部品を作成し，その部品ファイルを提出せよ(*提出期限: 11月4日*. 提出方法: メール. *下記参照*. )．
     なお，このファイルを開くためには，SolidWorks2014のインストールガイド(guide2014.pdf)を開くのと同じパスワードが必要．
     
-    *Report 2*: Build the basic shapes (基本形状) in [[file:2014-Exercise2.pdf][Report 2 file]] and submit their part files via e-mail (nagae@m.tohoku.ac.jp). Deadline is *11/4*.
+    *Report 2*: Build the basic shapes (基本形状) in [[file:2014-Exercise2.pdf][Report 2 file]] and submit their part files by e-mailp. Deadline is *11/4*.
     The password for the Report 2 file is equivalent to that for opening the Installation Guide (guide2014.pdf).
 
   - 課題は下記に従い *メール* で提出すること．ルールを守らない場合は *減点* する．
