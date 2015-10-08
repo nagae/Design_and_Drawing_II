@@ -3,13 +3,13 @@
 *SolidWorks 2015 でもスチューデントアクセスが利用できるように申請しました*. 
 ネットワークライセンスでのインストールがうまく行かない場合，
 スチューデントアクセスが利用できるようになるまでお待ち下さい．
-Windows10のサポートはSolidWorks 2015 SP5からのようです．ご注意下さい．
+Windows10のサポートは *SolidWorks 2015 SP5* からのようです．ご注意下さい．
 インストール時にSP5にアップグレードするように指定できるはずです．
 
 We have sent a request for *Student Access for SolidWorks 2015*.
 Please wait the Student Access if you face any problem in installing SolidWorks 2015 with Network License.
-Note that Windows 10 is suppoted from SolidWorks SP5. 
-It is expected you would have an option to upgrade to SP5 when you install.
+Note that Windows 10 seems to be supported by *SolidWorks 2015 with SP5* or later.
+You would have an option to upgrade SolidWorks 105 to SP5 when install.
 
 ** KB3072630との競合 / Conflict with Microsoft KB3072630 
 Solidworks 2011 から SolidWorks 2015 SP4 までは *Microsoft Update KB3072630 と競合する* ために
