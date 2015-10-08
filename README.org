@@ -52,9 +52,9 @@ in which the port 25734 might be available.
 *必ず* 目を通して下さい．
 
 It is strongly recommend to check [[file:report1-review-en.pdf][the review on Report 1]], 
-which was made by Mr. Senzaki and Mr. Hattori, the 2014 TAs, 
-and translated by Mr. Hattori and Mr. Ono, the 2015 TAs.
-I would be helpful for improving your drawing skill, 
+which was made by Mr. Senzaki and Mr. Hattori, the 2014 TAs.
+*English version is now available* due to the efforts by Mr. Hattori and Mr. Ono (8 Oct, 2015).
+It would be helpful for improving your drawing skill, 
 especially for the reports of the second-hard of this lecture, 
 where the 'completeness' of the drawing sheet is also evaluated.
 
