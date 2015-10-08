@@ -45,7 +45,7 @@ If you are Windows 10 user and would like to install SolidWorks 2015,
 in which the port 25734 might be available.
 
 
-** 課題1の講評 / Comments on Report 1
+** 課題1の講評 / A Review on Report 1
 2014年度TAの先崎さん・服部さんが [[file:report1-comment.pdf][課題1の講評]] を作成してくれました．
 本講義の後半では「図面の完成度(=見やすさ・正確さ・明快さ)」も評価されます．
 
