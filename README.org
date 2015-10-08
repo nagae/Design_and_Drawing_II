@@ -11,16 +11,16 @@ Please wait the Student Access if you face any problem in installing SolidWorks 
 Note that Windows 10 seems to be supported by *SolidWorks 2015 with SP5* or later.
 You would have an option to upgrade SolidWorks 105 to SP5 when install.
 
-** KB3072630との競合 / Conflict with Microsoft KB3072630 
+** Microsoft Update との競合 / Conflict with Microsoft Update
 Solidworks 2011 から SolidWorks 2015 SP4 までは *Microsoft Update KB3072630 と競合する* ために
-動作が不安定になったりインストール/アンインストールに失敗する可能性があることが報告されています．
-http://www.solidworks.com/sw/support/techkb3072630.htm
-上記ドキュメントをよく読み, インストール前であれば Scenario 1, インストール後であれば Scenario 2 
+動作が不安定になったりインストール/アンインストールに失敗する可能性があることが報告されています
+(http://www.solidworks.com/sw/support/techkb3072630.htm).
+このドキュメント(英語)をよく読み, インストール前であれば Scenario 1, インストール後であれば Scenario 2 
 に従って対応して下さい．
 
 It is reported that *Microsoft Update KB3072630 conflicts with SolidWorks*, 
-which may cause instability as well as fail in installation/uninstallation.
-http://www.solidworks.com/sw/support/techkb3072630.htm
+which may cause instability as well as fail in installation/uninstallation
+(http://www.solidworks.com/sw/support/techkb3072630.htm).
 This conflict affects SolidWorks 2011 - SolidWorks 2015 SP4.
 Please follow the instruction in the above document to resolve the conflict.
 
