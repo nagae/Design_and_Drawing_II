@@ -51,8 +51,12 @@ in which the port 25734 might be available.
 
 *必ず* 目を通して下さい．
 
-Mr. Senzaki and Mr. Hattori, the 2014 TAs, gave some comments on Report 1.
-I would be helpful for improving your drawing skill, especially for the reports of the second-hard of this lecture, where the 'completeness' of the drawing sheet is also evaluated.
+It is strongly recommend to check [[file:report1-review-en.pdf][the review on Report 1]], 
+which was made by Mr. Senzaki and Mr. Hattori, the 2014 TAs, 
+and translated by Mr. Hattori and Mr. Ono, the 2015 TAs.
+I would be helpful for improving your drawing skill, 
+especially for the reports of the second-hard of this lecture, 
+where the 'completeness' of the drawing sheet is also evaluated.
 
 * 担当教員
 - 長江 剛志(Nagae, Takeshi) nagae＠m.tohoku.ac.ｊｐ 
@@ -89,9 +93,9 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
 
     "Making My First Part" and "Making My First Drawing," which could be found in the SolidWorks Resource tab.
     http://help.solidworks.com/2014/English/SolidWorks/sldworks/r_solidworks_resources.htm
-  - 部品図作成に当たっては [[file:report1-comment.pdf][課題1の講評]] を必ず読むこと．
+  - 部品図作成に当たっては [[file:report1-review-jp.pdf][課題1の講評]] を必ず読むこと．
 
-    Refer [[file:report1-comment.pdf][the comments]] on Report 1.
+    Refer [[file:report1-review-en.pdf][the review on Report 1]] (English version was provided by Mr. Hattori and Mr. Ono; 8 Oct, 2015).
 - 10/14 :: 休講
            Cancellation.
   - SolidWorks がインストールできないなどの対応を希望する学生は，長江およびTAの二人にその旨をメールで知らせること
