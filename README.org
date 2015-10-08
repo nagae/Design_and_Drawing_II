@@ -1,4 +1,29 @@
 * 重要連絡 / Important Message
+** SolidWorks 2015 でもスチューデントアクセスが利用できるように申請中です / Student Access is waiting for SolidWorks 2015
+*SolidWorks 2015 でもスチューデントアクセスが利用できるように申請しました*. 
+ネットワークライセンスでのインストールがうまく行かない場合，
+スチューデントアクセスが利用できるようになるまでお待ち下さい．
+Windows10のサポートはSolidWorks 2015 SP5からのようです．ご注意下さい．
+インストール時にSP5にアップグレードするように指定できるはずです．
+
+We have sent a request for *Student Access for SolidWorks 2015*.
+Please wait the Student Access if you face any problem in installing SolidWorks 2015 with Network License.
+Note that Windows 10 is suppoted from SolidWorks SP5. 
+It is expected you would have an option to upgrade to SP5 when you install.
+
+** KB3072630との競合 / Conflict with Microsoft KB3072630 
+Solidworks 2011 から SolidWorks 2015 SP4 までは *Microsoft Update KB3072630 と競合する* ために
+動作が不安定になったりインストール/アンインストールに失敗する可能性があることが報告されています．
+http://www.solidworks.com/sw/support/techkb3072630.htm
+上記ドキュメントをよく読み, インストール前であれば Scenario 1, インストール後であれば Scenario 2 
+に従って対応して下さい．
+
+It is reported that *Microsoft Update KB3072630 conflicts with SolidWorks*, 
+which may cause instability as well as fail in installation/uninstallation.
+http://www.solidworks.com/sw/support/techkb3072630.htm
+This conflict affects SolidWorks 2011 - SolidWorks 2015 SP4.
+Please follow the instruction in the above document to resolve the conflict.
+
 ** zipファイルの解凍方法 / How to extract zip files
 =solidworks**_****.zip= を *エクスプローラの標準機能* (e.g. ダブルクリックや右クリックメニューで「全て展開」)で
 解凍すると *インストーラが途中で止まる* 現象が報告されています. [[http://www.7-zip.org][7-zip]] を利用して下さい．
@@ -18,6 +43,7 @@ port #25734 to access the license server is not allowed in eduroam.
 If you are Windows 10 user and would like to install SolidWorks 2015, 
 *pplease ask the administrator of your laboratory* to connect your PC to the labo network, 
 in which the port 25734 might be available.
+
 
 ** 課題1の講評 / Comments on Report 1
 2014年度TAの先崎さん・服部さんが [[file:report1-comment.pdf][課題1の講評]] を作成してくれました．
