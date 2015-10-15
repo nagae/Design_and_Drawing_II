@@ -1,15 +1,17 @@
 * 重要連絡 / Important Message
-** SolidWorks 2015 でもスチューデントアクセスが利用できるように申請中です / Student Access is waiting for SolidWorks 2015
-*SolidWorks 2015 でもスチューデントアクセスが利用できるように申請しました*. 
-ネットワークライセンスでのインストールがうまく行かない場合，
-スチューデントアクセスが利用できるようになるまでお待ち下さい．
-Windows10のサポートは *SolidWorks 2015 SP5* からのようです．ご注意下さい．
-インストール時にSP5にアップグレードするように指定できるはずです．
+** SolidWorks 2015 でもスチューデントアクセスが利用できるようになりました / Student Access is now available for SolidWorks 2015
+*SolidWorks 2015 でもスチューデントアクセスが利用できるようになりました*. 
+Windows 10 ユーザーは SolidWorks 2015 をスチューデントアクセスで利用して下さい．
+インストーラ(=solidworks64_2015.zip=)は http://cad3d.mech.tohoku.ac.jp 「研究室での利用者はこちらへ」から，
+シリアル番号が記載されたPDF(=StudentAccess_License2015update.pdf=)は 同URLの 「3年生はこちらへ」からアクセスできます．
+なお，インストールする際には後述の Microsoft Update との競合 を解決して下さい．
 
-We have sent a request for *Student Access for SolidWorks 2015*.
-Please wait the Student Access if you face any problem in installing SolidWorks 2015 with Network License.
-Note that Windows 10 seems to be supported by *SolidWorks 2015 with SP5* or later.
-You would have an option to upgrade SolidWorks 105 to SP5 when install.
+*Student Access for SolidWorks 2015 is now available*. 
+The installer =solidworks64_2015.zip= can be found in a page following 「研究室での利用者はこちらへ」 in 
+http://cad3d.mech.tohoku.ac.jp, while the serial ID for the Student Access is described in 
+=StudentAccess_License2015update.pdf= that can be found in a page following 
+「3年生はこちらへ」 in http://cad3d.mech.tohoku.ac.jp (the password is left unchanged).
+Note that you might have to resolve the conflict with Microsoft Update before installation.
 
 ** Microsoft Update との競合 / Conflict with Microsoft Update
 Solidworks 2011 から SolidWorks 2015 SP4 までは *Microsoft Update KB3072630 と競合する* ために
