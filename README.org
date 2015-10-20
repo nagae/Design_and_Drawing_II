@@ -1,17 +1,21 @@
-* 重要連絡 / Important Message
+* 重要連絡 / Important Message (2015.10.21 update)
 ** SolidWorks 2015 でもスチューデントアクセスが利用できるようになりました / Student Access is now available for SolidWorks 2015
 *SolidWorks 2015 でもスチューデントアクセスが利用できるようになりました*. 
 Windows 10 ユーザーは SolidWorks 2015 をスチューデントアクセスで利用して下さい．
 インストーラ(=solidworks64_2015.zip=)は http://cad3d.mech.tohoku.ac.jp 「研究室での利用者はこちらへ」から，
 シリアル番号が記載されたPDF(=StudentAccess_License2015update.pdf=)は 同URLの 「3年生はこちらへ」からアクセスできます．
-なお，インストールする際には後述の Microsoft Update との競合 を解決して下さい．
+以下に注意して下さい:
+1. インストールする際には後述の *Microsoft Update との競合* を解決して下さい．
+2. Windows 10 に公式対応しているサービスパック5(SP5)はまだリリースされていません．
 
 *Student Access for SolidWorks 2015 is now available*. 
 The installer =solidworks64_2015.zip= can be found in a page following 「研究室での利用者はこちらへ」 in 
 http://cad3d.mech.tohoku.ac.jp, while the serial ID for the Student Access is described in 
 =StudentAccess_License2015update.pdf= that can be found in a page following 
 「3年生はこちらへ」 in http://cad3d.mech.tohoku.ac.jp (the password is left unchanged).
-Note that you might have to resolve the conflict with Microsoft Update before installation.
+Note that 
+1. You might have to resolve *the conflict with Microsoft Update* before installation.
+2. Sorry. Service Pack 5 (SP5), which officially support Windows 10, is not released.
 
 ** Microsoft Update との競合 / Conflict with Microsoft Update
 Solidworks 2011 から SolidWorks 2015 SP4 までは *Microsoft Update KB3072630 と競合する* ために
@@ -112,11 +116,13 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
 
     Submit Report 1 (the printed part drawing).
     
-  - *課題2*: [[file:2014-Exercise2.pdf][課題2ファイル]] に基づいて基本形状の部品を作成し，その部品ファイルを提出せよ(*提出期限: 11月4日*. 提出方法: メール. *下記参照*. )．
+  - *課題2*: [[file:2015-Report2.pdf][課題2ファイル]](2015.10.21にファイル名を変更) に基づいて基本形状の部品を作成し，その部品ファイルを提出せよ(*提出期限: 11月4日*. 提出方法: メール. *下記参照*. )．
     なお，このファイルを開くためには，SolidWorks2014のインストールガイド(guide2014.pdf)を開くのと同じパスワードが必要．
-    
-    *Report 2*: Build the basic shapes (基本形状) in [[file:2014-Exercise2.pdf][Report 2 file]] and submit their part files by e-mailp. Deadline is *11/4*.
+        
+    *Report 2*: Make the basic shapes (基本形状) in [[file:2015-Report2.pdf][Report 2 file]] (the file name is changed at 21 Oct, 2015)
+    and submit their part files by e-mailp. Deadline is *11/4*.
     The password for the Report 2 file is equivalent to that for opening the Installation Guide (guide2014.pdf).
+    
 
   - 課題は下記に従い *メール* で提出すること．ルールを守らない場合は *減点* する．
 
