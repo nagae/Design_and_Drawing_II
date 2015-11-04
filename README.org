@@ -1,4 +1,13 @@
 * 重要連絡 / Important Message (2015.10.21 update)
+** 課題2の受領確認メールが遅れています
+課題2の提出が集中したために「提出を確認した」というメールの返信が追いついていません．
+提出が確認できない学生には DC メール(学籍番号 + =@dc.tohoku.ac.jp=)に連絡しますので，
+そちらも確認して下さい．
+
+Our response to the submission of Report 2 has been delayed due to "congestion."
+Please keep checking your DC mail (Student ID + =@dc.tohoku.ac.jp=), to which 
+a reminder will be sent when your submission can not be confirmed.
+
 ** SolidWorks 2015 でもスチューデントアクセスが利用できるようになりました / Student Access is now available for SolidWorks 2015
 *SolidWorks 2015 でもスチューデントアクセスが利用できるようになりました*. 
 Windows 10 ユーザーは SolidWorks 2015 をスチューデントアクセスで利用して下さい．
