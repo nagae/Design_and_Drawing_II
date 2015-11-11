@@ -235,6 +235,7 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
 
   3. The total score =TS= is calculated as follows:
      #+BEGIN_SRC python
+       q = S1 + ceil( (S2+S3) / 2. )
        if q < 49:
            TS = q + 10                 # q is smaller than 49
        elif q < 59:
