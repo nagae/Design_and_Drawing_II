@@ -1,6 +1,7 @@
 * 重要連絡 / Important Message (2015.10.21 update)
 ** English version of the scoring rule for the first half is added.
-The final score for the subject would be an average of the first half and the second (fractions are rounded up).
+The scoring rule for the first half (out of 100 pts) is added to the end section of this document.
+The final score for this subject is evaluated as an average of the first half and the second (fractions are rounded up).
 
 ** 課題2の受領確認メールが遅れています
 課題2の提出が集中したために「提出を確認した」というメールの返信が追いついていません．
