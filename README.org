@@ -1,4 +1,7 @@
 * 重要連絡 / Important Message (2015.10.21 update)
+** English version of the scoring rule for the first half is added.
+The final score for the subject would be an average of the first half and the second (fractions are rounded up).
+
 ** 課題2の受領確認メールが遅れています
 課題2の提出が集中したために「提出を確認した」というメールの返信が追いついていません．
 提出が確認できない学生には DC メール(学籍番号 + =@dc.tohoku.ac.jp=)に連絡しますので，
@@ -242,7 +245,7 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
        else:
            TS = 100                    # if q exceeds 100
      #+END_SRC
-
+   
 - 採点例
   - サボった場合：課題1(10点)，課題2-1(50点)のみ :: 
        素点は 10 + 50/2 = 35 で49点未満なので，35+10 = 45 点が長江担当分の成績．
