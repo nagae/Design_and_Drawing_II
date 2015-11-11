@@ -230,20 +230,17 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
 
   Total score for the first half =TS= (out of 100 pts) is calculated according to the following procedure.
   1. Let =S1=, =S2= and =S3= be the score for Report 1 (10 pts), Report 2 (100 pts) and Report 3 (100 pts).
-
-  2. Let =q= be =ceil(S1 + (S2 + S3) / 2)=, where =ceil(X)= is round up of =X=.
-
-  3. The total score =TS= is calculated as follows:
+  2. TThe total score =TS= is then calculated as follows:
      #+BEGIN_SRC python
-       q = S1 + ceil( (S2+S3) / 2. )
+       q = S1 + ceil( (S2+S3) / 2. )   # ceil(x) is the smallest integer greatehr than of equal to x
        if q < 49:
-           TS = q + 10                 # q is smaller than 49
+           TS = q + 10                 # if q is smaller than 49
        elif q < 59:
-           TS = 60                     # q is in between 50 and 59
+           TS = 60                     # if q is in between 50 and 59
        elif q <= 100:
-           TS = q                      # q is in between 60 and 100
+           TS = q                      # if q is in between 60 and 100
        else:
-           TS = 100                    # q exceeds 100
+           TS = 100                    # if q exceeds 100
      #+END_SRC
 
 
