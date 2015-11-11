@@ -223,7 +223,7 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
 
 
 
-* 前半の評価 / Evaluation for the first half
+* 前半の評価 / Evaluation of the first half
 - 長江担当分の成績(100点満点)は，課題1〜3 の点数を用いて以下のように成績を評価
   する：
   1. 課題1を10点として，課題2(100点)と課題3(100点)の点数の合計を2で割ったもの
