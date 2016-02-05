@@ -228,8 +228,8 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
   する：
   1. 課題1を10点として，課題2(100点)と課題3(100点)の点数の合計を2で割ったもの
      に加えたものを「素点」とする．
-  2. 「素点」が49点未満の場合は，「素点」+10点を「長江担当分の成績」とする
-  3. 「素点」が50点以上59点未満の場合は，60点を「長江担当分の成績」とする
+  2. 「素点」が50点未満の場合は，「素点」+10点を「長江担当分の成績」とする
+  3. 「素点」が50点以上60点未満の場合は，60点を「長江担当分の成績」とする
   4. 「素点」が100点を超えた場合，100点を「長江担当分の成績」とする．
 
   Total score for the first half (out of 100 pts) is calculated according to the following procedure.
@@ -237,9 +237,9 @@ http://cad3d.mech.tohoku.ac.jp から 「3年生はこちらへ」
   2. The total score =TS= for the first half is then calculated as follows:
      #+BEGIN_SRC python
        q = S1 + ceil( (S2+S3) / 2. )   # ceil(x) is the smallest integer greatehr than of equal to x
-       if q < 49:
+       if q < 50:
            TS = q + 10                 # if q is smaller than 49
-       elif q < 59:
+       elif q < 60:
            TS = 60                     # if q is in between 50 and 59
        elif q <= 100:
            TS = q                      # if q is in between 60 and 100
